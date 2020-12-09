@@ -1,0 +1,7 @@
+com\api\controller\Controller.class
+com\api\SwaggerConfig.class
+com\api\model\Tarea.class
+com\api\SpringBootFullstackApplication.class
+com\api\repository\ITareaRepository.class
+mapper\mapper.class
+com\api\dto\TareaDto.class
