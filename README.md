@@ -12,4 +12,4 @@ Pruebas abarcaron solo a los controller. Faltan pruebas de los servicios. por mo
 
 #Instrucciones de instalación 
 Para el back realiza maven build jar . creara el jar para realizar el despliegue en el servidor o Docker correspondiente, bajo su respectiva configuración 
-Para el fron realizar un npm build . creara build el cual podra ser depleago en un servidor web. De rutas dynamicas. Si no configurar las rutas. 
+Para el front realizar un npm build . creara build el cual podría ser desplegarlo en un servidor web. De rutas dynamicas. Si no configurar las rutas. 
