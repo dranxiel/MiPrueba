@@ -1,8 +1,8 @@
 import { types } from "../../types/types";
 
-export function actualizarTareaAction(task) {
+export function actualizarTareaAction(tarea) {
     return (dispatch) => {
-        dispatch( actualizarTarea(task) )
+        dispatch( actualizarTarea(tarea) )
     }
 }
 
