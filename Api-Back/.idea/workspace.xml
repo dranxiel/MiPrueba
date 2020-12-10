@@ -4,7 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="910c4573-374a-4d66-9ff2-1d9f06077d6e" name="Default Changelist" comment="" />
+    <list default="true" id="910c4573-374a-4d66-9ff2-1d9f06077d6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209113146" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209114925.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209115606.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209115741.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209115956" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209120801.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209120849" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209120928" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209120933.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209121102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209121104.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209121158" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209121246.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209121412.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/.env_20201209121420" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/App_20201209105716.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/App_20201209123534.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/App_20201209124020.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/agregar-tarea_20201209112303.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/agregar-tarea_20201209115907.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/agregar-tarea_20201209121445.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/borrar-tarea_20201209111146.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/borrar-tarea_20201209115846.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/borrar-tarea_20201209121506.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209110522.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209115805.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209115821.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209121741.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209121756.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209122111.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209122146.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/editar-tarea_20201209122159.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209105851.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209115634.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209120043.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209120150.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209120429.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209120445.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209120512.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209121549.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/actions/api-back/get-all_20201209121608.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209114112.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209114113.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209114129.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209115107.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209115214.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209120553.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209120603.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209120945.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209121118.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209121714.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209122341.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209122553.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209122646.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209122926.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/components/Form_20201209123114.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/reducers/tareasReducers_20201209123657.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/reducers/tareasReducers_20201209124309.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/reducers/taskReducers_20201029013214.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/reducers/taskReducers_20201209122830.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/reducers/taskReducers_20201209122908.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/reducers/taskReducers_20201209123039.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/store_20201029013455.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tareaFront/.history/src/store_20201209123741.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +83,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1lOFwMi5lS5HXPOin1gEFXRPT8k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,7 +100,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="JUnit.ControllerTest">
+  <component name="RunManager" selected="Application.SpringBootApiApplication">
     <configuration name="SpringBootApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -185,9 +250,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringBootApiApplication" />
         <item itemvalue="JUnit.ControllerTest" />
         <item itemvalue="JUnit.ControllerTest.update" />
-        <item itemvalue="Application.SpringBootApiApplication" />
         <item itemvalue="JUnit.ControllerTest.createTask" />
       </list>
     </recent_temporary>
