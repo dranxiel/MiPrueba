@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="910c4573-374a-4d66-9ff2-1d9f06077d6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../tareaFront/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../tareaFront/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tareaFront/src/actions/api-back/actualizar-tarea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tareaFront/src/actions/api-back/actualizar-tarea.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tareaFront/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tareaFront/src/store.js" afterDir="false" />
-    </list>
+    <list default="true" id="910c4573-374a-4d66-9ff2-1d9f06077d6e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../vc/codigo/api-backsuscripcion" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -217,17 +213,7 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/api/controller/Controller.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/spring_boot_fullstack$ControllerTest.ic" NAME="ControllerTest Coverage Results" MODIFIED="1607532044092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
